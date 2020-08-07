@@ -1,6 +1,6 @@
 # Medical-Data-Share-Fabric-App
 
-## fabcar/
+fabcar
 클라이언트 관련, 네트워크 시작
 fabcar/startfabric.sh
 네트워크 시작
